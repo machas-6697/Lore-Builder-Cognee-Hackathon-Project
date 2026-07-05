@@ -1,0 +1,27 @@
+# LoreBuilder – Streamlit Configuration
+# ========================================
+# This file controls the Streamlit app settings.
+# It must live at the project root alongside app.py.
+
+[global]
+# Suppress Streamlit's email prompt on first run
+disableWatchdogWarning = false
+showWarningOnDirectExecution = false
+
+[server]
+# Disable the file upload limit for large lore files
+maxUploadSize = 50
+
+[browser]
+# Open browser automatically when running locally
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[theme]
+# Custom theme matching the LoreBuilder color palette
+base = "dark"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#1F150C"
+primaryColor = "#C8860A"
+textColor = "#E1DCC9"
+font = "sans serif"
