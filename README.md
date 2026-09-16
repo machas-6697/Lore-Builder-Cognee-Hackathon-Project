@@ -8,8 +8,6 @@
 
 **LoreBuilder** is a highly interactive web application that allows users to explore, query, and dynamically expand pre-existing fictional worlds. Powered by Large Language Models (LLMs) and **Cognee Cloud's** advanced Knowledge Graph memory, LoreBuilder grounds the AI in established lore—significantly mitigating hallucinations and driving strong narrative consistency.
 
-*Note: This project was developed in collaboration with Antigravity, an agentic coding assistant by Google.*
-
 *Note: This project was developed for the online hackathon The Hangover Part AI: Where's My Context?, organized by WeMakeDevs.org and sponsored by Cognee.*
 
 ---
